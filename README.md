@@ -1,9 +1,11 @@
 This list was inspired by a [Dogs on Acid Thread](https://www.dogsonacid.com/threads/the-bandcamp-list.792358/) trying to compile a list of artists and labels currently available on Bandcamp. This is not a _STRICTLY DNB_ list, as some labels have only one or two relevant releases.
 
-[0-9](0-9)  [A](A)   [B](B)   [C](C)   [D](D)   [E](E)   [F](F)   [G](G)   [H](H)   [I](I)   [J](J)   [K](K)   [L](L)   [M](M)   [N](N)   [O](O)   [P](P)   [Q](Q)   [R](R)   [S](S)   [T](T)   [U](U)   [V](V)   [W](W)   [X](X)   [Y](Y)   [Z](Z)
+[0-9](#0-9) [A](#A)	[B](#B)  [C](#C)   [D](#D)   [E](#E)   [F](#F)   [G](#G)   [H](#H)   [I](#I)   [J](#J)   [K](#K)   [L](#L)   [M](#M)   [N](#N)   [O](#O)   [P](#P)   [Q](#Q)   [R](#R)   [S](#S)   [T](#T)   [U](#U)   [V](#V)   [W](#W)   [X](#X)   [Y](#Y)   [Z](#Z)
 
 Currently there are 235 entries.
+
 # 0-9
+
 * [0=0](https://0e0e0e0.bandcamp.com/music)  
    URL: <https://0e0e0e0.bandcamp.com/>  
    Format: Digital  
