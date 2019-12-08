@@ -1,7 +1,9 @@
-This list was inspired by a [Dogs on Acid Thread](https://www.dogsonacid.com/threads/the-bandcamp-list.792358/) trying to compile a list of artists and labels currently available on Bandcamp.
+This list was inspired by a [Dogs on Acid Thread](https://www.dogsonacid.com/threads/the-bandcamp-list.792358/) trying to compile a list of artists and labels currently available on Bandcamp. This is not a _STRICTLY DNB_ list, as some labels have only one or two relevant releases.
+
+[0-9](0-9)  [A](A)   [B](B)   [C](C)   [D](D)   [E](E)   [F](F)   [G](G)   [H](H)   [I](I)   [J](J)   [K](K)   [L](L)   [M](M)   [N](N)   [O](O)   [P](P)   [Q](Q)   [R](R)   [S](S)   [T](T)   [U](U)   [V](V)   [W](W)   [X](X)   [Y](Y)   [Z](Z)
 
 Currently there are 235 entries.
-
+# 0-9
 * [0=0](https://0e0e0e0.bandcamp.com/music)  
    URL: <https://0e0e0e0.bandcamp.com/>  
    Format: Digital  
@@ -23,14 +25,7 @@ Currently there are 235 entries.
    Comment:   
    Other Website: http://www.2000black.com/  
 
-* [31 Rcordings / ThirtyOne Recordings](https://thirtyonerecordings.bandcamp.com/music)  
-   URL: <https://thirtyonerecordings.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: No  
-   Comment: Misses backcat  
-   Other Website:   
-
-* [31 Rcordings / ThirtyOne Recordings](https://thirtyonerecordings.bandcamp.com/music)  
+* [31 Recordings / ThirtyOne Recordings](https://thirtyonerecordings.bandcamp.com/music)  
    URL: <https://thirtyonerecordings.bandcamp.com/>  
    Format: Digital, Physical & Merch  
    Full Catalouge: No  
@@ -43,6 +38,8 @@ Currently there are 235 entries.
    Full Catalouge: No  
    Comment: Missing only the first two releases  
    Other Website:   
+
+#A
 
 * [Above Board Distribution](https://aboveboarddistribution.bandcamp.com/music)  
    URL: <https://aboveboarddistribution.bandcamp.com/>  
@@ -107,25 +104,11 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
-* [Arctic Music](https://arcticmusicuk.bandcamp.com/music)  
-   URL: <https://arcticmusicuk.bandcamp.com/>  
-   Format: Digital & Physical  
-   Full Catalouge: Yes  
-   Comment:   
-   Other Website:   
-
 * [ASC](https://asc77.bandcamp.com/music)  
    URL: <https://asc77.bandcamp.com/>  
    Format: Digital, Physical & Merch  
    Full Catalouge: No  
    Comment: Has almost everything from ASC, but is still missing some stuff  
-   Other Website:   
-
-* [A-Sides](https://asides.bandcamp.com/music)  
-   URL: <https://asides.bandcamp.com/>  
-   Format: Digital  
-   Full Catalouge: No  
-   Comment: Selected releases, few Fuze remasters  
    Other Website:   
 
 * [A-Sides](https://asides.bandcamp.com/music)  
@@ -148,6 +131,8 @@ Currently there are 235 entries.
    Full Catalouge: Yes  
    Comment:   
    Other Website:   
+
+#B
 
 * [Basswerk](https://basswerk.bandcamp.com/music)  
    URL: <https://basswerk.bandcamp.com/>  
@@ -253,6 +238,8 @@ Currently there are 235 entries.
    Full Catalouge: Yes  
    Comment:   
    Other Website:   
+
+#C
 
 * [Calibre](https://calibre.bandcamp.com/music)  
    URL: <https://calibre.bandcamp.com/>  
@@ -380,12 +367,7 @@ Currently there are 235 entries.
    Comment: In the process of being filled with digital versions of backcat  
    Other Website:   
 
-* [Danny Byrd](https://dannybyrd.bandcamp.com/music)  
-   URL: <https://dannybyrd.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: No  
-   Comment: Takes you the the Hospital BC page and homepage, misses releases form other labels  
-   Other Website:   
+# D
 
 * [Danny Byrd](https://dannybyrd.bandcamp.com/music)  
    URL: <https://dannybyrd.bandcamp.com/>  
@@ -520,6 +502,8 @@ Currently there are 235 entries.
    Comment: ATTENTION: Tracks or mostly ripped from Vinyl  
    Other Website:   
 
+# E
+
 * [E-Beamz](https://e-beamz.bandcamp.com/music)  
    URL: <https://e-beamz.bandcamp.com/>  
    Format: Digital, Physical & Merch  
@@ -575,6 +559,8 @@ Currently there are 235 entries.
    Full Catalouge: Yes  
    Comment:   
    Other Website:   
+
+# F
 
 * [Fanu](https://fanu.bandcamp.com/music)  
    URL: <https://fanu.bandcamp.com/>  
@@ -639,6 +625,8 @@ Currently there are 235 entries.
    Comment: Misses a lot, but has almost all classics remastered  
    Other Website:   
 
+# G
+
 * [Genotype / Just Jungle](https://genotypejjungle.bandcamp.com/music)  
    URL: <https://genotypejjungle.bandcamp.com/>  
    Format: Digital  
@@ -674,6 +662,8 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
+# H
+
 * [Hojo Clan](https://hojoclan.bandcamp.com/music)  
    URL: <https://hojoclan.bandcamp.com/>  
    Format: Digital  
@@ -695,13 +685,6 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
-* [Homemade Weapons](https://homemadeweapons.bandcamp.com/music)  
-   URL: <https://homemadeweapons.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment:   
-   Other Website:   
-
 * [Hospital Records](https://hospitalrecords.bandcamp.com/music)  
    URL: <https://hospitalrecords.bandcamp.com/>  
    Format: Digital, Physical & Merch  
@@ -709,12 +692,7 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
-* [Hospital Records](https://hospitalrecords.bandcamp.com/music)  
-   URL: <https://hospitalrecords.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment:   
-   Other Website:   
+# I
 
 * [Ibiza Records](https://ibizarecords2.bandcamp.com/music)  
    URL: <https://ibizarecords2.bandcamp.com/>  
@@ -772,6 +750,8 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
+# J
+
 * [Jamie Myerson](https://jamiemyerson.bandcamp.com/music)  
    URL: <https://jamiemyerson.bandcamp.com/>  
    Format: Digital  
@@ -800,12 +780,7 @@ Currently there are 235 entries.
    Comment: Selected releases  
    Other Website:   
 
-* [John B](https://john-b.bandcamp.com/music)  
-   URL: <https://john-b.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: No  
-   Comment: Selected releases  
-   Other Website:   
+# K
 
 * [Kabuki](https://iamkabuki.bandcamp.com/music)  
    URL: <https://iamkabuki.bandcamp.com/>  
@@ -884,25 +859,13 @@ Currently there are 235 entries.
    Comment: But is missing some bits  
    Other Website:   
 
-* [L/B Recordings](https://lbrecordings.bandcamp.com/music)  
-   URL: <https://lbrecordings.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment:   
-   Other Website:   
+# L
 
 * [L/B Recordings](https://lbrecordings.bandcamp.com/music)  
    URL: <https://lbrecordings.bandcamp.com/>  
    Format: Digital, Physical & Merch  
    Full Catalouge: Yes  
    Comment:   
-   Other Website:   
-
-* [London Elektricity](https://londonelek.bandcamp.com/music)  
-   URL: <https://londonelek.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment: Takes you the the Hospital BC page and homepage  
    Other Website:   
 
 * [London Elektricity](https://londonelek.bandcamp.com/music)  
@@ -918,6 +881,8 @@ Currently there are 235 entries.
    Full Catalouge: Yes  
    Comment:   
    Other Website:   
+
+# M
 
 * [Mac2 Records](http://mac2records.bandcamp.com/music)  
    URL: <http://mac2records.bandcamp.com/>  
@@ -989,19 +954,14 @@ Currently there are 235 entries.
    Comment: Not Drum & Bass, associated with Modern Urban Jazz  
    Other Website:   
 
-* [Music Preservation Society / MPS](https://musicpreservationsociety.co.uk/music)  
-   URL: <https://musicpreservationsociety.co.uk/>  
+* [Music Preservation Society / MPS](https://musicpreservationsociety.bandcamp.com/music)  
+   URL: <https://musicpreservationsociety.bandcamp.com/>  
    Format: Digital, Physical & Merch  
    Full Catalouge: Yes  
    Comment: Not a label but distributor, lots of represses  
-   Other Website:   
+   Other Website: <https://musicpreservationsociety.co.uk/>  
 
-* [Music Preservation Society / MPS](https://musicpreservationsociety.co.uk/music)  
-   URL: <https://musicpreservationsociety.co.uk/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment: Not a label but distributor, lots of represses  
-   Other Website:   
+# N
 
 * [Narratives Music](https://narrativesmusic.bandcamp.com/music)  
    URL: <https://narrativesmusic.bandcamp.com/>  
@@ -1059,6 +1019,8 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
+# O
+
 * [Odysee Recordings](https://odyseerecordings.bandcamp.com/music)  
    URL: <https://odyseerecordings.bandcamp.com/>  
    Format: Digital & Physical  
@@ -1071,20 +1033,6 @@ Currently there are 235 entries.
    Format: Physical  
    Full Catalouge: Yes  
    Comment: Vinyl only  
-   Other Website:   
-
-* [OKBRON Records](https://okbron.bandcamp.commusic)  
-   URL: <https://okbron.bandcamp.com>  
-   Format: Physical  
-   Full Catalouge: Yes  
-   Comment: Vinyl only  
-   Other Website:   
-
-* [Oliver Yorke](https://oliveryorke.bandcamp.com/music)  
-   URL: <https://oliveryorke.bandcamp.com/>  
-   Format: Digital  
-   Full Catalouge: No  
-   Comment:   
    Other Website:   
 
 * [Oliver Yorke](https://oliveryorke.bandcamp.com/music)  
@@ -1129,6 +1077,8 @@ Currently there are 235 entries.
    Comment: Self-released music only  
    Other Website:   
 
+# P
+
 * [Paradox Music](https://paradoxmusicuk.bandcamp.com/music)  
    URL: <https://paradoxmusicuk.bandcamp.com/>  
    Format: Digital, Physical & Merch  
@@ -1171,19 +1121,9 @@ Currently there are 235 entries.
    Comment: Redirects to Webiste: https://bandcamp.prspct.nl/  
    Other Website: https://bandcamp.prspct.nl/  
 
-* [PRSPCT Recordings](https://prspctrecordings.bandcamp.commusic)  
-   URL: <https://prspctrecordings.bandcamp.com>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment: Redirects to Webiste: https://bandcamp.prspct.nl/  
-   Other Website: https://bandcamp.prspct.nl/  
+# Q
 
-* [Rascal and Klone](https://rascalandklone.bandcamp.commusic)  
-   URL: <https://rascalandklone.bandcamp.com>  
-   Format: Digital  
-   Full Catalouge: Yes  
-   Comment: All releases as one file  
-   Other Website:   
+# R
 
 * [Rascal and Klone](https://rascalandklone.bandcamp.commusic)  
    URL: <https://rascalandklone.bandcamp.com>  
@@ -1240,6 +1180,8 @@ Currently there are 235 entries.
    Full Catalouge: Yes  
    Comment:   
    Other Website:   
+
+# S
 
 * [Sam KDC](https://samkdc.bandcamp.com/music)  
    URL: <https://samkdc.bandcamp.com/>  
@@ -1346,13 +1288,6 @@ Currently there are 235 entries.
    Comment: New stuff, classics ripped from CD  
    Other Website:   
 
-* [Skynet](https://skynetaudio.bandcamp.com/music)  
-   URL: <https://skynetaudio.bandcamp.com/>  
-   Format: Digital  
-   Full Catalouge: No  
-   Comment: New stuff, classics ripped from CD  
-   Other Website:   
-
 * [Sneaker Social Club](https://sneakersocialclub.bandcamp.commusic)  
    URL: <https://sneakersocialclub.bandcamp.com>  
    Format: Digital, Physical & Merch  
@@ -1437,13 +1372,6 @@ Currently there are 235 entries.
    Comment: NOT Drum & Bass, but has two DnB compilations: https://subterraneanrecords.bandcamp.com/album/vorsprung-durch-drum-bass-selection-one and https://subterraneanrecords.bandcamp.com/album/the-ultimate-jungle-collection-calling-all-the-people  
    Other Website:   
 
-* [Subtitles.music](https://subtitlesmusic.bandcamp.com/music)  
-   URL: <https://subtitlesmusic.bandcamp.com/>  
-   Format: Digital  
-   Full Catalouge: No  
-   Comment: Misses backcat  
-   Other Website:   
-
 * [Subtitles UK](https://subtitlesmusic.bandcamp.com/music)  
    URL: <https://subtitlesmusic.bandcamp.com/>  
    Format: Digital  
@@ -1486,13 +1414,6 @@ Currently there are 235 entries.
    Comment:   
    Other Website:   
 
-* [Symmetry Recordings](https://symmetryrecordings.bandcamp.com/music)  
-   URL: <https://symmetryrecordings.bandcamp.com/>  
-   Format: Digital, Physical & Merch  
-   Full Catalouge: Yes  
-   Comment:   
-   Other Website:   
-
 * [Synaptic Plastic](https://synapticplastic.bandcamp.com/music)  
    URL: <https://synapticplastic.bandcamp.com/>  
    Format: Digital & Physical  
@@ -1506,6 +1427,8 @@ Currently there are 235 entries.
    Full Catalouge: No  
    Comment:   
    Other Website:   
+
+# T
 
 * [Tango](https://djtango.bandcamp.com/music)  
    URL: <https://djtango.bandcamp.com/>  
@@ -1591,6 +1514,8 @@ Currently there are 235 entries.
    Comment: Only the remasters are available  
    Other Website:   
 
+# U
+
 * [Uncertain Hour](https://uncertainhour.bandcamp.commusic)  
    URL: <https://uncertainhour.bandcamp.com>  
    Format: Digital, Physical & Merch  
@@ -1612,6 +1537,8 @@ Currently there are 235 entries.
    Comment: Distributor for a lot of represses and remasters  
    Other Website:   
 
+# V
+
 * [Vinyl Fanatiks](https://vinylfanatiks.bandcamp.com/music)  
    URL: <https://vinylfanatiks.bandcamp.com/>  
    Format: Digital, Physical & Merch  
@@ -1625,6 +1552,8 @@ Currently there are 235 entries.
    Full Catalouge: No  
    Comment: Only two releases  
    Other Website:   
+
+# W
 
 * [Warehouse Rave](https://warehouserave.bandcamp.com/music)  
    URL: <https://warehouserave.bandcamp.com/>  
@@ -1640,10 +1569,14 @@ Currently there are 235 entries.
    Comment: Self-released music only  
    Other Website:   
 
+# X
 * [X Nation](https://xnation.bandcamp.com/music)  
    URL: <https://xnation.bandcamp.com/>  
    Format: Digital  
    Full Catalouge: No  
    Comment: Self-released music only  
    Other Website:   
+   
+# Y
 
+# Z
