@@ -1,3 +1,7 @@
+This list was inspired by a [Dogs on Acid Thread](https://www.dogsonacid.com/threads/the-bandcamp-list.792358/) trying to compile a list of artists and labels currently available on Bandcamp.
+
+Currently there are 235 entries.
+
 * [0=0](https://0e0e0e0.bandcamp.com/music)  
    URL: <https://0e0e0e0.bandcamp.com/>  
    Format: Digital  
@@ -1388,7 +1392,7 @@
    URL: <https://spacerecordings.bandcamp.com/>  
    Format: Digital  
    Full Catalouge: No  
-   Comment: Not the complete cataloge, but almost… plus Byrnes Soundtracks  
+   Comment: Not the complete cataloge, but almostÂ… plus Byrnes Soundtracks  
    Other Website: http://www.superflatgames.com/blog  
 
 * [Special Request](https://special-request.bandcamp.com/music)  
